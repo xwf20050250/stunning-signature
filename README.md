@@ -1,4 +1,4 @@
-
+Android Nativate检测签名，防止签名检测劫持
 
 # How to prevent tampering signatures of APK-files using C (Native check of a signature of APKs)
 
